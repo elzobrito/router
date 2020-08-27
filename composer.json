@@ -1,0 +1,17 @@
+{
+  "name": "elzobrito/router",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Elzo Brito dos Santos Filho",
+      "email": "elzo.filho@etec.sp.gov.br"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "elzobrito\\": "src"
+  },
+  "require": {
+    "php": "^7.1"
+  }
+}
